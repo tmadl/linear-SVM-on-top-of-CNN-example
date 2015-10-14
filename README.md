@@ -10,4 +10,4 @@ You will need to install/download
 * The [Caffe deep learning framework](http://caffe.berkeleyvision.org/)
 * bvlc_googlenet (or bvlc_reference_caffenet) from [Caffe ModelZoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
-After installing/downloading these, start ipython notebook in the folder you downloaded this project to, and open *CNNexp.ipynb*. Follow the instructions there.
+After installing/downloading these, download this project, uncompress all zip files, and then start "ipython notebook" within the folder you downloaded this project to. Then open *CNNexp.ipynb*, and follow the instructions there.
