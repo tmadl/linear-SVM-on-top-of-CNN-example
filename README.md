@@ -13,3 +13,5 @@ In order to actually run it, you will need to install/download
 * bvlc_googlenet (or bvlc_reference_caffenet) from [Caffe ModelZoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
 After installing/downloading these, download this project, uncompress all zip files, and then start "ipython notebook" within the folder you downloaded this project to. Then open *CNNexp.ipynb*, and follow the instructions there.
+
+Tested with Ubuntu 12.04 (caffe doesn't work well with Windows)
