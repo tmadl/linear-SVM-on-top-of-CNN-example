@@ -15,3 +15,9 @@ In order to actually run it, you will need to install/download
 After installing/downloading these, download this project, uncompress all zip files, and then start "ipython notebook" within the folder you downloaded this project to. Then open *CNNexp.ipynb*, and follow the instructions there.
 
 Tested with Ubuntu 12.04 (caffe doesn't work well with Windows)
+
+For more information and more detailed tutorials, please see
+* [caffe examples](https://github.com/BVLC/caffe/tree/master/examples), especially [classification](https://github.com/BVLC/caffe/blob/master/examples/00-classification.ipynb), which visualizes what CNN features look like
+* [The caffe Tutorial](http://caffe.berkeleyvision.org/tutorial/)
+* [Linux, Python & caffe installation tutorial](http://www.slideshare.net/calmli/linux-python-caffelihang)
+* finally, for developing intuitions on deep learning, see [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
